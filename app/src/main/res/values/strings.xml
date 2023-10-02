@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppFormularios</string>
+    <string name="titulo">"CALCULADORA"</string>
+    <string name="valnumero">Ingrese un Número</string>
+    <string name="btncalcular">CALCULAR</string>
+    <string name="Titulo">CALCULADORA IMC</string>
+    <string name="valAltura">Ingrese altura</string>
+    <string name="valPeso">Ingrese peso</string>
+    <string name="Resultado">Resultado IMC</string>
+    <string name="Calcularresultado">CALCULAR</string>
+</resources>
